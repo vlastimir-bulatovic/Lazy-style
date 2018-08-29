@@ -1,0 +1,14 @@
+body, p, ul, li {
+  margin: 0;
+  padding: 0; }
+  body li, p li, ul li, li li {
+    list-style: none; }
+  body a, body a:hover, body a:visited, p a, p a:hover, p a:visited, ul a, ul a:hover, ul a:visited, li a, li a:hover, li a:visited {
+    text-decoration: none; }
+  body div.row, p div.row, ul div.row, li div.row {
+    margin-left: 0;
+    margin-right: 0; }
+  body section, body header, body footer, p section, p header, p footer, ul section, ul header, ul footer, li section, li header, li footer {
+    padding: 20px 0; }
+
+/*# sourceMappingURL=index.css.map */
