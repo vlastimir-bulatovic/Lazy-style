@@ -11,4 +11,14 @@ body, p, ul, li {
   body section, body header, body footer, p section, p header, p footer, ul section, ul header, ul footer, li section, li header, li footer {
     padding: 20px 0; }
 
+@media screen and (min-width: 768px) {
+  header nav .navbar-toggler {
+    display: none; } }
+@media screen and (min-width: 768px) {
+  header nav .collapse {
+    display: block; } }
+@media screen and (min-width: 768px) {
+  header nav .collapse ul {
+    flex-direction: row; } }
+
 /*# sourceMappingURL=index.css.map */
